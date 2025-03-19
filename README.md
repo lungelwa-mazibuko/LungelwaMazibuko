@@ -2,6 +2,10 @@
 
 I'm a Fullstack Developer with expertise in building dynamic and scalable applications using a range of technologies. My passion for programming drives me to constantly learn and implement new concepts and technologies, as well as share my projects and progress with the community
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LungelwaMazibuko&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
 <h1>💻 Technologies & Tools</h1>
 
 \
