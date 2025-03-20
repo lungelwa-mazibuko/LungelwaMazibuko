@@ -7,9 +7,10 @@ Hi there! 👋 I'm Lungelwa Mazibuko, a passionate and determined aspiring full-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lungelwamazibuko&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lungelwamazibuko&layout=compact&theme=radical" alt="Top Languages" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api?username=lungelwamazibuko&show_icons=true&theme=brown-dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lungelwamazibuko&layout=compact&theme=brown-dark" alt="Top Languages" width="43%" />
 </p>
+
 
 ---
 
