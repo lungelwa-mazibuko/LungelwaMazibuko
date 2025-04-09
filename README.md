@@ -7,8 +7,8 @@ Hi there! 👋 I'm Lungelwa Mazibuko, a passionate and determined aspiring full-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lungelwamazibuko&show_icons=true&theme=brown-dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lungelwamazibuko&layout=compact&theme=brown-dark" alt="Top Languages" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lungelwa-mazibuko&show_icons=true&theme=brown-dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lungelwa-mazibuko&layout=compact&theme=brown-dark" alt="Top Languages" width="43%" />
 </p>
 
 
@@ -63,7 +63,7 @@ Hi there! 👋 I'm Lungelwa Mazibuko, a passionate and determined aspiring full-
 
 ## ✨ Let's Connect!
 If you're interested in collaborating or have any questions, feel free to reach out to me via email (infolungelwamazibuko@gmail.com) or
-<a href="https://www.linkedin.com/in/lungelwa-mazibuko-138510353/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/lungelwa-mazibuko/">LinkedIn</a>
 
 ---
 
